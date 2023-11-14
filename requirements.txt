@@ -1,0 +1,4 @@
+fastapi
+uvcorn
+natsort:8.4.0
+pdf2img:1.16.3
